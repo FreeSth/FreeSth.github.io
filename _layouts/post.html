@@ -11,7 +11,7 @@ layout: default
     <meta content="website" property="og:type">
   {% endif %}
   {% if page.image %}
-    <meta content="/img/srcset/{{ page.image }}" property="og:image">
+    <meta content="{{ page.image }}" property="og:image">
   {% endif %}
   {% if page.url %}
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
