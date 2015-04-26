@@ -12,6 +12,7 @@ layout: default
   {% endif %}
   {% if page.image %}
     yes with image
+    {{ post.image }}
     <meta content="{{ post.image }}" property="og:image">
   {% endif %}
   {% if page.url %}
