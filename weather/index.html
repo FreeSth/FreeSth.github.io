@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html>
+  <head> 
+    <title>雷達圖</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="og:title" content="雷達圖" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="以上圖像顯示香港天文台天氣雷達觀察到在離海平面3公里高的降雨率。HKT代表香港時間，右邊的色板指出降雨率的大小。">
+    <meta property="og:url" content="http://mchun.space/weather/" />
+    <meta property="og:image" content="http://i.ytimg.com/vi/2JcASbrmtJo/maxresdefault.jpg" />
+    <style type="text/css">
+      body{
+        max-width: 650px;
+        margin: auto auto;
+      }
+    </style>
+  </head>
+  <body>
+    <CENTER>
+      <a id="btn256" href="#">256</a>
+      <a id="btn128" href="#">128</a>
+      <a id="btn64" href="#">64</a>
+      <br/>
+      <img id="radar" src="" style='width:100%;' border="0" alt="wait..."/>
+    </CENTER>
+  </body>
+  <script src="./moment.js"></script>
+  <script>
+    var x=0;
+    var btn256 = document.getElementById("btn256");
+    var btn128 = document.getElementById("btn128");
+    var btn64 = document.getElementById("btn64");
+    var radar = document.getElementById("radar");
+    var imgArray=[];
+    var numOfImg=10;
+    var buffer=5;
+    set128();
+    var i = setInterval(auto, 600); 
+
+    function set256(){
+      for(i=0; i<numOfImg;i++){
+        imgArray[i]="http://www.weather.gov.hk/wxinfo/radars/rad_256_png/2d256radar_"+moment().subtract(12*numOfImg+buffer+(Math.floor(moment().subtract(buffer,'m').format("mm")%12)),'m').add((i+1)*12,'m').format("YYYYMMDDHHmm")+".png";
+      };
+    };
+
+    function set128(){
+      for(i=0; i<numOfImg;i++){
+        imgArray[i]="http://www.weather.gov.hk/wxinfo/radars/rad_128_png/2d128radar_"+moment().subtract(12*numOfImg+buffer+(Math.floor(moment().subtract(buffer,'m').format("mm")%12)),'m').add((i+1)*12,'m').format("YYYYMMDDHHmm")+".png";
+      };
+    };
+
+    function set64(){
+      for(i=0; i<numOfImg;i++){
+        imgArray[i]="http://www.weather.gov.hk/wxinfo/radars/rad_064_png/2d064radar_"+moment().subtract(12*numOfImg+buffer+(Math.floor(moment().subtract(buffer,'m').format("mm")%12)),'m').add((i+1)*12,'m').format("YYYYMMDDHHmm")+".png";
+      };
+    };
+
+    function auto()
+    {
+      radar.src=imgArray[x];
+      x++;
+      if (x == imgArray.length)
+      {
+        x=0;
+      } 
+    }
+
+    btn256.onclick = function(){
+      set256();
+      return false;
+    };
+    btn128.onclick = function(){
+      set128();
+      return false;
+    };
+    btn64.onclick = function(){
+      set64();
+      return false;
+    };
+  </script>
+</html>
