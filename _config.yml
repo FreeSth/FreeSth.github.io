@@ -6,7 +6,7 @@
 name: FreeSth
 
 # Short bio or description (displayed in the header)
-description: Freecycle of Hong Kong
+description: 免費物資平台
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://graph.facebook.com/freesth/picture?type=large
@@ -18,7 +18,7 @@ avatar: http://graph.facebook.com/freesth/picture?type=large
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@freesth.com
+  email: alex.tc.kwan@gmail.com
   facebook: FreeSth
   flickr:
   github: 
