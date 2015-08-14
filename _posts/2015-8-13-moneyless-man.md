@@ -5,7 +5,7 @@ image: /assets/money-disconnection.jpg
 ---
 話說我前幾年睇完一本書，令我開始不斷問好多問題，再去搞FreeSth.
 
-本書叫'一年一用錢'，係英文書'The moneyless man'的譯本。作者叫[Mark Boyle](http://www.moneylessmanifesto.org/) [(他的Ted Talk)](http://tedxtalks.ted.com/video/TEDxOPorto-Mark-Boyle-The-Money), 係一個讀經濟的大學畢業生。佢認為好多世界問題都係由金錢產生，所以毅然決定完全唔用錢生活一年，住喺一架trailer car到，幫農場每星期打理幾小時去換取trailer停泊的位置，自己種食物，製造鉛筆，牙膏等日用品，show 畀大家睇唔用錢都可以過唔錯的生活。
+本書叫'一整年不用錢'，係英文書'The moneyless man'的譯本。作者叫[Mark Boyle](http://www.moneylessmanifesto.org/) [(他的Ted Talk)](http://tedxtalks.ted.com/video/TEDxOPorto-Mark-Boyle-The-Money), 係一個讀經濟的大學畢業生。佢認為好多世界問題都係由金錢產生，所以毅然決定完全唔用錢生活一年，住喺一架trailer car到，幫農場每星期打理幾小時去換取trailer停泊的位置，自己種食物，製造鉛筆，牙膏等日用品，show 畀大家睇唔用錢都可以過唔錯的生活。
 
 ![alt text](/assets/mark-trailer.png "Mark's Trailer")
 
