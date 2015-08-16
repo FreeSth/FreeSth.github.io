@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一切從一本書開始
+title: 金錢如何破壞世界-Freecycle的意義
 image: /assets/money-disconnection.jpg
 ---
 話說我前幾年睇完一本書，令我開始不斷問好多問題，再去搞FreeSth.
@@ -25,6 +25,6 @@ Mark認為錢令大家同身邊各樣東西距離愈來愈遠，大家花錢買�
 我覺得要學Mark Boyle咁自給自足生活有一定難度，但亦唔想下下買野都咁多內心掙扎，最後發現用二手野就係最好。件野可能係破壞環境，剝削童工而來，
 但所有野已經發生左，而件野而家就喺你附近，如果唔繼續用盡佢仲去買新野就係支持lee個咁唔道德的經濟。
 
-而搞好一個二手買賣平台或Freecycle平台，就係破壞這個不道德經濟的最好方法，所以我搞左個免費物資平台叫FreeSth。
+而搞好一個二手買賣平台或Freecycle平台，就係破壞這個不道德經濟的最好方法，所以我搞左個免費物資平台叫FreeSth，亦希望大家學習抽離金錢去睇身邊的事。
 
 <a href="https://www.freesth.com">![alt text](http://www.freesth.com/images/ogfreesth.png "FreeSth")</a>
