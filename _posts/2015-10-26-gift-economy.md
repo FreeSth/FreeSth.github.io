@@ -32,3 +32,5 @@ Mark 認為，如果大家食飯後向自己的家人收費會覺得不恰當，
 ![alt text](/assets/freesth_network.png "FreeSth Network")
 
 禮物經濟的推行令大家生活上能減少對金錢的依賴，並重拾互相幫助的關係，也許是現今經濟的出路。而外國著名的Couchsurfing及最近的大埔泥鯭 group 義載順風車，其實都係 Gift Economy 的好例子。
+
+[延伸閱讀：Mark的免錢宣言](http://www.moneylessmanifesto.org/book/the-moneyless-menu/the-gift-economy/) 
