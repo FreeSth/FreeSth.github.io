@@ -15,7 +15,7 @@ HK Express 最近推出 $22 的機票，好多人都好瘋狂去搶購，但背�
 
 $22 一張的機票好平，係因為好多成本冇計落去。空氣中PM2.5危害人類健康的成本，氣候變化的成本，水位上升淹沒世界各地城市的成本，北極熊同各樣物種絕種的成本，未來N代生活環境的成本。。。。等等。如果大家會諗咁多野，再平的機票，都唔會想狗衝。
 
-![alt text](/assets/venice-flood.jpg "Venice Flooding")
+![alt text](/assets/venice-overflow.jpg "Venice Flooding")
 
 雖然我都好鐘意去旅行，但我都係prefer用陸路去長旅行，甚至係單車旅行，去D冇遊客去的地方。
 
