@@ -114,6 +114,10 @@
           return;
         }
         
+        if (document.getElementById("mySalary").value == 0){
+          return;
+        }
+        
         if (document.getElementById("mySalary").value > 300000){
           document.getElementById("mySalary").value  = "";
           document.getElementById("intro").setAttribute("hidden","");
