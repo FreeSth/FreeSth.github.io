@@ -6,10 +6,12 @@ permalink: /about/
 
 ### More Information
 
-[FreeSth - 網頁版](https://www.freesth.com)
+[網頁版 www.freesth.com](https://www.freesth.com)
 
 [FreeSth - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.freesth.com)
 
+[FreeSth - IOS Apps on App Store](https://itunes.apple.com/us/app/freesth/id1073057388?ls=1&mt=8)
+
 ### Contact me
 
-[alex.tc.kwan@gmail.com](mailto:alex.tc.kwan@gmail.com)
+[alex@freesth.com](mailto:alex@freesth.com)
