@@ -13,9 +13,9 @@
     
     <meta property="og:type" content="website" />
 
-      <meta property="og:url" content="https://www.freesth.com"/>
+      <meta property="og:url" content="http://blog.freesth.com/li-ka-shing-calculator"/>
 
-      <meta property="og:image" content="http://www.freesth.com/images/ogfreesth.png" />
+      <meta property="og:image" content="http://blog.freesth.com/li-ka-shing-calculator/oglkscalculator.png" />
  
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.css" rel="stylesheet" type="text/css" />
@@ -58,8 +58,9 @@
         </div>
         
     </section>
-    <section id="hiLKS" hidden>
-      <h1>李先生你好，搵咁多錢仲大駕光臨此網頁，真係畀面。</h1>
+    <section id="MrRich" hidden>
+      <h1>搵咁多錢仲大駕光臨，真係畀面。</h1>
+      <button class="btn btn-primary" id="typeWrong">sor，入錯咗，再計過！</button>
     </section>
     <section id="result" style="margin:10px;" hidden>
       <h4 style="text-align:left; margin:10px 0px -20px 10px;">諴哥只需要用...</h4>
@@ -87,7 +88,8 @@
         <h3>不如參與<a href="https://www.freesth.com">免錢經濟</a>，減少生活上對金錢的依賴 </h3>
         <div class="fb-share-button" data-href="http://blog.freesth.com/li-ka-shing-calculator" data-layout="button_count"></div>
       </div>
-
+      <br>
+      <button class="btn btn-primary" id="tryAgain">唔信邪，再計過！</button>
       <br>
       <h5 style="text-align:left;">
         <a href="http://www.forbes.com/profile/li-ka-shing/?list=hong-kong-billionaires">Source: Forbes</a>
@@ -106,6 +108,15 @@
         if (document.getElementById("mySalary").value == ""){
           return;
         }
+        
+        if (document.getElementById("mySalary").value > 300000){
+          document.getElementById("mySalary").value  = "";
+          document.getElementById("intro").setAttribute("hidden","");
+          document.getElementById("result").setAttribute("hidden","");
+          document.getElementById("MrRich").removeAttribute("hidden");          
+          return;
+        }
+        
         // document.getElementById("answer").innerHTML = document.getElementById("mySalary").value;
         var mySalary = document.getElementById("mySalary").value;
         var lksSalary = 9300000000 / 50;
@@ -113,12 +124,26 @@
         var myTimeToEarn = Math.round(lksSalary * 12 / mySalary / 12);
         document.getElementById("mySalary").value  = "";
         document.getElementById("intro").setAttribute("hidden","");
+        document.getElementById("MrRich").setAttribute("hidden","");
         document.getElementById("result").removeAttribute("hidden");
         document.getElementById("answer").innerHTML = lksEarnIn;
         document.getElementById("iNeedToWork").innerHTML = myTimeToEarn;
         var iPhoneEqui = Math.round(6000 / mySalary * lksSalary / 10000);
         document.getElementById("iPhoneEqui").innerHTML = "$" + iPhoneEqui +"萬";
       };
+      
+      document.getElementById("tryAgain").onclick = function() {
+        document.getElementById("result").setAttribute("hidden","");
+        document.getElementById("MrRich").setAttribute("hidden","");
+        document.getElementById("intro").removeAttribute("hidden");
+      }
+      
+      document.getElementById("typeWrong").onclick = function() {
+        document.getElementById("result").setAttribute("hidden","");
+        document.getElementById("MrRich").setAttribute("hidden","");
+        document.getElementById("intro").removeAttribute("hidden");
+      }
+      
       function earnedSinceVisit(){
         earned += (9300000000 / 50 / 30 / 24 / 60 / 60 / 10);
         document.getElementById("earnedSinceVisit").innerHTML = "$"+ Math.round(earned);
