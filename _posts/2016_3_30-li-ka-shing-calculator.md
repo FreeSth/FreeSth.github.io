@@ -1,0 +1,23 @@
+---
+layout: post
+title: 你 Vs. 李嘉誠
+image: /li-ka-shing-calculator/oglkscalculaor.png
+---
+
+我喺一月嘅時候整左個誠哥計數機，畀大家計下自己同誠哥的差距
+![alt text](/li-ka-shing-calculator/oglkscalculaor.png "誠哥計數機")
+
+短短一日被各大媒體瘋傳，有17萬人玩過，遍佈世界各地。
+![alt text](/assets/calculatorworldwide.png "世界各地使用者")
+
+除左想借此宣傳 FreeSth 之外，其實亦想帶出貧富懸殊的嚴重，及免錢經濟可以發揮的效用。
+
+![alt text](/assets/lksdiff.png "同誠哥差距")
+
+值得留意的是，計數機所顯示的，唔係現有分配有幾不均，而係財富增長速度的差距。
+
+即係話，貧富懸殊的問題只會愈黎愈大，任你再捐幾多錢扶貧都好，都解決唔到根本問題。
+
+如果大家生活上可以減少對金錢的依賴，甚至(好理想地)各自付出自己社區所需要的資源或服務，令人人都唔需要錢而可以生活得到。
+
+咁樣，貧富根本唔會再係問題，而有錢人手上的錢亦會變得没有作用。
