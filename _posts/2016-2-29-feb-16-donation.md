@@ -6,7 +6,7 @@ title: FreeSth 運作狀況 (Feb/16)
 一月尾開始，FreeSth 可以畀大家跌錢入黎支持平台運作，及黎緊的 server migration。
 現家公佈一下運作情況
 
-#平台表現
+# 平台表現
 
 用戶人數：
 
@@ -24,7 +24,7 @@ title: FreeSth 運作狀況 (Feb/16)
 Server request and Data
 ![alt text](/assets/serverrequest.png "Server Request and Data")
 
-#捐款
+# 捐款
 
 2016年1月30日 － 2016月2月29日總捐款有：$15958.64 + $USD15
 
@@ -52,7 +52,7 @@ $500 x 3
 
 ***$180 用於製作易拉架x2
 
-#Migration狀況
+# Migration狀況
 
 過去一個月多數在測試 [parse-server](https://github.com/ParsePlatform/parse-server) 的功能
 
@@ -66,7 +66,7 @@ lee兩日會開始試 android，iphone app
 
 未知之後每月的運作成本
 
-#結語
+# 結語
 
 再次多謝大家的捐款。
 
