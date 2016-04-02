@@ -3,6 +3,9 @@ layout: post
 title: FreeSth 運作狀況 (Feb/16)
 ---
 
+一月尾開始，FreeSth 可以畀大家跌錢入黎支持平台運作，及黎緊的 server migration。
+現家公佈一下運作情況
+
 #平台表現
 
 用戶人數：
