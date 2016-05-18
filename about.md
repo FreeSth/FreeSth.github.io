@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-### More Information
+### 關於FreeSth
+
+[關於FreeSth](https://www.freesth.com/about.html)
+
+### FreeSth 連結
 
 [網頁版 www.freesth.com](https://www.freesth.com)
 
