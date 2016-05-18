@@ -4,9 +4,9 @@ title: FreeSth 與 FreeSomething
 image: /assets/freesomething.jpg
 ---
 
-FreeSth 之前原來有 FreeSomething, 我都係推出左個 android app 同網頁版之後先知。
+[FreeSth](http://www.freesth.com) 之前原來有 FreeSomething, 我都係推出左個 android app 同網頁版之後先知。
 
-話說上年當我開發埋網頁版FreeSth後，Facebook 收到一位朋友的 msg。
+話說上年當我開發埋網頁版 [FreeSth](http://www.freesth.com) 後，Facebook 收到一位朋友的 msg。
 
 ![alt text](/assets/freesomething-fb.png "FreeSomething 手機app")
 
