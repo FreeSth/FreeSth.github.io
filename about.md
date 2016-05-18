@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: 關於 FreeSth
 permalink: /about/
 ---
 
-### 關於FreeSth
-
-[關於FreeSth](https://www.freesth.com/about.html)
+[FreeSth 介紹](https://www.freesth.com/about.html)
 
 ### FreeSth 連結
 
