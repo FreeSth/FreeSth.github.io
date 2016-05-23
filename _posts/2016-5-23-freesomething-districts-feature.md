@@ -1,10 +1,10 @@
 ---
 layout: post
 title: FreeSth 加入分區功能
-image: /assets/freesomething.jpg
+image: /assets/freesomething-district.png
 ---
 
-大家唔駛再加入多個 Free 谷，留意唔同區的物資，因為一個 app 已經可以搞掂晒。
+大家唔駛再加入多個 Free 谷，留意唔同區的物資，因為一個 [app](http://www.freesth.com/app.html) 已經可以搞掂晒。
 
 FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/freesth/id1073057388?mt=8)，[Android app](https://play.google.com/store/apps/details?id=com.freesth.com) 及[網頁版](https://www,freesth,com)已經同步更新。
 
@@ -31,4 +31,4 @@ FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/f
 
 ![alt text](/assets/web-district.png "FreeSth Website Districts")
 
-# [試下用啦喂](http://www.freesth.com/app.html)
+<a style="font-size:24px;" href="http://www.freesth.com/app.html">試下用啦喂</a>
