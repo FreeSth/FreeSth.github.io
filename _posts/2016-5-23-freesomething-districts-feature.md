@@ -18,9 +18,9 @@ FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/f
 
 #### iPhone:
 
-<img src="/assets/iphone-districts1.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
-<img src="/assets/iphone-districts2.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
-<img src="/assets/iphone-districts3.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts1.PNG" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts2.PNG" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts3.PNG" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
 
 #### Android:
 
