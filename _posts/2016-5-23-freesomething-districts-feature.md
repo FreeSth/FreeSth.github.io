@@ -6,7 +6,7 @@ image: /assets/freesomething-district.png
 
 大家唔駛再加入多個 Free 谷，留意唔同區的物資，因為一個 [app](http://www.freesth.com/app.html) 已經可以搞掂晒。
 
-FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/freesth/id1073057388?mt=8)，[Android app](https://play.google.com/store/apps/details?id=com.freesth.com) 及[網頁版](https://www,freesth,com)已經同步更新。
+FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/freesth/id1073057388?mt=8)，[Android app](https://play.google.com/store/apps/details?id=com.freesth.com) 及[網頁版](https://www.freesth.com)已經同步更新。
 
 大家可以更方便尋找所屬地區的物資，透過[禮物經濟](http://blog.freesth.com/gift-economy/)認識區內街坊。
 
@@ -18,9 +18,9 @@ FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/f
 
 #### iPhone:
 
-<img src="/assets/iphone-districts1.PNG" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
-<img src="/assets/iphone-districts2.PNG" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
-<img src="/assets/iphone-districts3.PNG" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts1.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts2.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts3.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
 
 #### Android:
 
