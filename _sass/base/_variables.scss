@@ -1,0 +1,60 @@
+/* Variables
+  =============== */
+
+
+/* Mobile Breakpoints */
+
+$mobile: 600px;
+$tablet: 850px;
+$desktop: 1200px;
+
+/* Content Font Styling */
+
+$font-style: normal;
+$font-variant: normal;
+$font-weight: normal;
+$font-color: #404040;
+$font-size: 1rem;
+$line-height: 1.6;
+$font-family: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+$header: 'Heebo', Georgia, serif;
+$nav: 'Poppins', Helvetica Neue, Helvetica, Arial, sans-serif;
+$button-font: 'Poppins', Helvetica Neue, Helvetica, Arial, sans-serif;
+
+/* Borders */
+
+$border: #e2e2e2;
+$background: #efefef;
+$light-background: #f2f2f2;
+
+/* Colors */
+
+$one: #EB4D5C;
+$two: #F7931E;
+$three: #F6BF26;
+$four: #54C381;
+$five: #049AE5;
+$six: #795da3;
+
+/* Code */
+
+$code: Menlo, 'Roboto Mono', Courier New, monospace;
+
+/* Navigation */
+
+$nav-height: 80px;
+
+/* Variables */
+
+$string: #A8D3A9;
+$variable: #F78D8C;
+$property: #D5D5D5;
+$number: #FCA369;
+$operator: #cda869;
+$punctuation: #D5D5D5;
+$comment: #A9A9A9;
+$function: #76D4D6;
+$keyword: #ffeead;
+$attribute: #FFD479;
+$class: #D6ACD6;
+$tag: #78AAD6;

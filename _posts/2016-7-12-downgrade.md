@@ -2,6 +2,7 @@
 layout: post
 title: 那天，我選擇 Downgrade 我的相機
 image: /assets/pirate.jpg
+category: 文章
 ---
 
 這個世界上有很多可以令你一直沉迷的嗜好，相機是其中一種。

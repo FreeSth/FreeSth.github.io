@@ -16,27 +16,21 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="https://www.freesth.com" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="https://www.freesth.com">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+    <nav class="navigation">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/" class="one">
+          <img src="{{ site.avatar }}" class="logo" alt="FreeSth Logo">
+        </a>
+        <a href="{{ site.baseurl }}/" class="two">文章</a>
+        <a href="{{ site.baseurl }}/announcement" class="three">公告</a>
       </div>
-    </div>
+    </nav>
 
-    <div id="main" role="main" class="container">
+    <main class="main-content text-center">
       {{ content }}
-    </div>
+    </main>
 
     <div class="wrapper-footer">
       <div class="container">

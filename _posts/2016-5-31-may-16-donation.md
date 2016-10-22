@@ -1,6 +1,8 @@
 ---
 layout: post
 title: FreeSth 運作狀況 (Mar-May/16)
+published: false
+category: 公告
 ---
 
 此 post 包括 3月－5月 平台捐款情況

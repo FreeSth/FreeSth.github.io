@@ -2,6 +2,7 @@
 layout: post
 title: FreeSth Android 3.0 分區功能試用
 image: /assets/material4.png
+category: 公告
 ---
 
 Android app 係成個 FreeSth 推出的第一個 client（比網頁更早推出），建立時不論 coding / design 都係好 prelim。開發完 FreeSth 網頁，iPhone app 再睇番Android app，就覺得好核突，好想從新整過。

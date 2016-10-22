@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 何謂禮物經濟(Gift Economy)?
-image: /assets/giving-tree.jpg
+image: /assets/giving_tree.jpg
+category: 文章
 ---
 
 近年環球經濟動盪，不少人探求新的經濟模式，但大多數的討論，仍是圍繞著一種交易或交換的型式，Mark Boyle則鼓勵一種免費的禮物經濟（Gift Economy)，就像自然界裏的機制一樣。

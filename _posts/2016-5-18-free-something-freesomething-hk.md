@@ -2,6 +2,7 @@
 layout: post
 title: FreeSth 與 FreeSomething
 image: /assets/freesomething.jpg
+category: 公告
 ---
 
 [FreeSth](http://www.freesth.com) 之前原來有 FreeSomething, 我都係推出左個 android app 同網頁版之後先知。

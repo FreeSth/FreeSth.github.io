@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="small-container">
-  {% for post in site.categories["文章"] %}
+  {% for post in site.categories["公告"] %}
     <a href="{{ site.baseurl }}{{ post.url }}" class="article-link">
       <article class="article-excerpt">
         <div>
