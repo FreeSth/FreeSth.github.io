@@ -20,15 +20,19 @@
 
     <nav class="navigation">
       <div class="nav-container">
-        <a href="{{ site.baseurl }}/" class="one">
-          <img src="{{ site.avatar }}" class="logo" alt="FreeSth Logo">
+        <a href="https://www.freesth.com/" class="one">
+          <div class="center-block">
+            <img src="/assets/circular-logo.png" class="logo">
+            <span style="font-weight:900;color:#2dafcb;font-size:24px;vertical-align:top">FreeSth</span>
+            <div style="clear:both;"></div>
+          </div>
         </a>
         <a href="{{ site.baseurl }}/" class="two">文章</a>
         <a href="{{ site.baseurl }}/announcement" class="three">公告</a>
       </div>
     </nav>
 
-    <main class="main-content text-center">
+    <main class="main-content">
       {{ content }}
     </main>
 

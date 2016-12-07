@@ -5,7 +5,7 @@ image: /assets/pirate.jpg
 category: 文章
 ---
 
-這個世界上有很多可以令你一直沉迷的嗜好，相機是其中一種。
+這個世界上有很多可以令你沉迷的嗜好，相機是其中一種。
 
 有一段時間，我追尋過攝影裝備的升級，毒海不算進入得很深，過程中的裝備如下：
 Panasonic LX2 -> Olympus EPL1 + 9-18mm f4-5.6 + 14-150mm f4.0-5.6 + VF2 -> Nikon FE + nikkor 50mm f1.4 + nikkor 105mm f2.5 + nikkor 28mm f2.8 -> Canon S100

@@ -2,31 +2,36 @@
 layout: default
 ---
 
-<article class="post">
-  {% if page.title %}
-    <meta content="{{ page.title }}" property="og:title">
-    <meta content="article" property="og:type">
-  {% else %}
-    <meta content="{{ site.title }}" property="og:title">
-    <meta content="website" property="og:type">
-  {% endif %}
-  {% if page.image %}
-    {{ post.image }}
-    <meta content="{{ post.image }}" property="og:image">
-  {% endif %}
-  {% if page.url %}
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-  {% endif %}
-  
-  <h1>{{ page.title }}</h1>
-  
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+  <meta content="article" property="og:type">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+  <meta content="website" property="og:type">
+{% endif %}
 
-  <div class="entry">
-    {{ content }}
-  </div>
+{% if page.image %}
+  {{ post.image }}
+  <meta content="{{ post.image }}" property="og:image">
+{% endif %}
 
-  {% include disqus.html %}
-</article>
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+
+<section class="single">
+  <div class="small-container">
+    <article style="padding-top:20px;">
+      <h1 class="text-center">{{ page.title }}</h1>
+  
+      <time class="text-center" style="padding-bottom:20px;">
+        {{ page.date | date: "%B %e, %Y" }}
+      </time>
+
+      {{ content }}
+    </article>
+    {% include disqus.html %}    
+  </div>
+</section>
+
+

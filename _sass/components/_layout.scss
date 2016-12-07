@@ -35,6 +35,9 @@
   
   img {
   	max-width: 100%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
   }
   
   // Headings
@@ -48,7 +51,7 @@
   	font-weight: 700;
   	letter-spacing: -0.02rem;
   	margin-bottom: .5em;
-  	color: #111;
+  	color: #333;
   }
   
   h1 {
@@ -218,7 +221,7 @@
   		}
   	}
   	.logo {
-  		display: inline-block;
+  		display: none;
   		height: 40px;
   		width: 40px;
       border-radius: 20px;
@@ -246,6 +249,7 @@
   		background: white;
   		border-bottom: 1px solid $border;
   		.logo {
+        display:inline-block;
   			height: 50px;
   			width: 50px;
         border-radius: 25px;
@@ -277,22 +281,22 @@
   				}
   			}
   			&.one:hover {
-  				border-bottom: 2px solid $one;
+  				border-bottom: 3px solid $one;
   			}
   			&.two:hover {
-  				border-bottom: 2px solid $two;
+  				border-bottom: 3px solid $two;
   			}
   			&.three:hover {
-  				border-bottom: 2px solid $three;
+  				border-bottom: 3px solid $three;
   			}
   			&.four:hover {
-  				border-bottom: 2px solid $four;
+  				border-bottom: 3px solid $four;
   			}
   			&.five:hover {
-  				border-bottom: 2px solid $five;
+  				border-bottom: 3px solid $five;
   			}
   			&.six:hover {
-  				border-bottom: 2px solid $six;
+  				border-bottom: 3px solid $six;
   			}
   		}
   	}
@@ -346,9 +350,8 @@
   	img {
   		display: block;
   		padding: .5rem;
-  		width: 75px;
-  		height: 75px;
-  		max-width: 75px;
+  		width: 300px;
+  		max-width: 300px;
   	}
   }
   
@@ -359,9 +362,8 @@
   		img {
   			display: block;
   			padding: 1rem;
-  			width: 150px;
-  			height: 150px;
-  			max-width: 150px;
+  			width: 500px;
+  			max-width: 500px;
   		}
   	}
   }

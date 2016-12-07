@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="small-container">
+<div class="small-container text-center">
   {% for post in site.categories["文章"] %}
     <a href="{{ site.baseurl }}{{ post.url }}" class="article-link">
       <article class="article-excerpt">
@@ -10,12 +10,10 @@ layout: default
           <h1>{{ post.title }}</h1>
           <time>{{ post.date | date: "%B %e, %Y" }}</time>
           <p>
-            {{ post.excerpt }}
+            {{ post.excerpt | strip_html }}
           </p>
         </div>
-        <div class="article-image">
-          <img src="{{ post.image }}" alt="{{post.title}}">
-        </div>
+        <img src="{{ post.image }}" alt="{{post.title}}">
       </article>
     </a>
   {% endfor %}

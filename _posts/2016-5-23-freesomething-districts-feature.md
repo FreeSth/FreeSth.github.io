@@ -19,17 +19,17 @@ FreeSth的分區功能已經完成， [iPhone](https://itunes.apple.com/us/app/f
 
 #### iPhone:
 
-<img src="/assets/iphone-districts1.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
-<img src="/assets/iphone-districts2.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
+<img src="/assets/iphone-districts1.png" alt="FreeSth iPhone app Districts" style="float:left;width:50%"/>
+<img src="/assets/iphone-districts2.png" alt="FreeSth iPhone app Districts" style="float:left;width:50%"/>
 <img src="/assets/iphone-districts3.png" alt="FreeSth iPhone app Districts" style="max-width: 350px;"/>
 
 #### Android:
 
-<img src="/assets/android-district.png" alt="FreeSth Android app Districts" style="max-width: 350px;"/>
-<img src="/assets/android-district2.png" alt="FreeSth Android app Districts" style="max-width: 350px;"/>
+<img src="/assets/android-district.png" alt="FreeSth Android app Districts" style="float:left;width:50%"/>
+<img src="/assets/android-district2.png" alt="FreeSth Android app Districts" style="float:left;width:50%"/>
 
 #### 網頁版:
 
 ![alt text](/assets/web-district.png "FreeSth Website Districts")
 
-<a style="font-size:24px;" href="http://www.freesth.com/app.html">試下用啦喂</a>
+<a style="font-size:24px;" href="http://www.freesth.com/app.html">立即下載</a>
