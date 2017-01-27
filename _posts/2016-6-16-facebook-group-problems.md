@@ -48,5 +48,5 @@ category: 公告
 ## 10. Group admin 沒有實際控制權， group 可以在一夜間消失
 其實喺Facebook上做任何野都係徒勞無功，就算係group admin都冇實際控制權。Facebook可以隨時delete任何group，admin 亦冇辦法為自己個 group 做 backup / 通知會員/改善平台。之前有個 free group 超過5萬名會員，咪又係一夜間消失左。
 
-# 結語
+## 結語
 之前冇其他好用的平台，就話焗住用 facebook group free 野啫，但而家 FreeSth 又有晒 android, ios 手機 app，又加埋分區功能，可以解決晒以上10個問題，點解仲要用 facebook group 去 free 野呢？用 [FreeSth](https://www.freesth.com/app.html) free 野吧～
