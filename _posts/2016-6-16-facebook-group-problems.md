@@ -3,6 +3,7 @@ layout: post
 title: Facebook free 谷的10大問題
 image: /assets/pai.png
 category: 公告
+published: false
 ---
 
 其實 facebook group 做free野平台好多問題，但好似好多人都意識唔到，我唯有畫公仔畫出腸。

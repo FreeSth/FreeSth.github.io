@@ -3,6 +3,7 @@ layout: post
 title: FreeSth 運作狀況 (Feb/16)
 published: false
 category: 公告
+published: false
 ---
 
 一月尾開始，FreeSth 可以畀大家跌錢入黎支持平台運作，及黎緊的 server migration。

@@ -3,6 +3,7 @@ layout: post
 title: FreeSth 加入分區功能
 image: /assets/freesomething-district.png
 category: 公告
+published: false
 ---
 
 大家唔駛再加入多個 Free 谷，留意唔同區的物資，因為一個 [app](http://www.freesth.com/app.html) 已經可以搞掂晒。

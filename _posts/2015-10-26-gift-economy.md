@@ -3,6 +3,7 @@ layout: post
 title: 何謂禮物經濟(Gift Economy)?
 image: /assets/giving_tree.jpg
 category: 文章
+published: false
 ---
 
 近年環球經濟動盪，不少人探求新的經濟模式，但大多數的討論，仍是圍繞著一種交易或交換的型式，Mark Boyle則鼓勵一種免費的禮物經濟（Gift Economy)，就像自然界裏的機制一樣。
@@ -34,4 +35,4 @@ Mark 認為，如果大家食飯後向自己的家人收費會覺得不恰當，
 
 禮物經濟的推行令大家生活上能減少對金錢的依賴，並重拾互相幫助的關係，也許是現今經濟的出路。而外國著名的Couchsurfing及最近的大埔泥鯭 group 義載順風車，其實都係 Gift Economy 的好例子。
 
-[延伸閱讀：Mark的免錢宣言](http://www.moneylessmanifesto.org/book/the-moneyless-menu/the-gift-economy/) 
+[延伸閱讀：Mark的免錢宣言](http://www.moneylessmanifesto.org/book/the-moneyless-menu/the-gift-economy/)
